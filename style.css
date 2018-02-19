@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,400italic);
+@import url(https://use.fontawesome.com/releases/v5.0.6/css/all.css);
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'segoe ui', 'fira sans', roboto, noto, 'droid sans', 'liberation sans', 'lucida grande', 'helvetica neue', helvetica, 'franklin gothic medium', 'century gothic', cantarell, oxygen, ubuntu, sans-serif;
@@ -25,11 +26,11 @@ img,
     display: block;
     max-width: 100%;
     margin: 0 auto;
-    width:120px;
-    border:3px solid #757575;
-    border-radius: 500px;
-    -webkit-border-radius: 500px;
-    -moz-border-radius: 500px;
+    width:140px;
+/*     border:50px solid #757575; */
+    border-radius: 1000px;
+    -webkit-border-radius: 1000px;
+    -moz-border-radius: 1000px;
   }
 
 /* Title of the resume */
