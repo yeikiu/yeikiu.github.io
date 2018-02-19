@@ -63,17 +63,18 @@ Education
 	
 IT Strengths
 ------------
-Languages
-:	PHP, Java, Javascript, HTML, CSS, TeX
+<span class="fas fa-code fa-md">
+:	
+	PHP, Java, Javascript, HTML, CSS, TeX
 
-Servers
+<span class="fas fa-server fa-md">
 :	Apache, Tomcat, NodeJS
 
-Databases
+<span class="fas fa-database fa-md">
 :	Oracle, MySQL, PostreSQL, MongoDB  
 
-Others
-:	Android, Spring, AngularJS, jQuery, Bootstrap
+<span class="fas fa-code-branch fa-md">
+:	GIT, Android, Spring, AngularJS, jQuery, Bootstrap
 
 Human Languages
 ------------
