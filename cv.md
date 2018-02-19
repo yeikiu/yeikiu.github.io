@@ -57,4 +57,4 @@ Education
 	Universidad de Las Palmas de Gran Canaria (Spain)  
 
 ------
-> [LinkedIn](https://es.linkedin.com/in/jqocon) • CV's source at: [GitHub Profile](https://github.com/yeikiu)
+> [LinkedIn](https://es.linkedin.com/in/jqocon) • [GitHub Profile](https://github.com/yeikiu)
