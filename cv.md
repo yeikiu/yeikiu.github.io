@@ -61,7 +61,7 @@ Education
 	Focus area: Software Engineering  
 	Universidad de Las Palmas de Gran Canaria (Spain)  
 	
-IT Strengths
+Languages & IT Strengths
 ------------
 <span class="fas fa-code fa-lg">
 :	
