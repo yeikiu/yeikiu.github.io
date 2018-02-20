@@ -18,13 +18,13 @@
 
 Personal Details
 ---------
-<span class="fas fa-envelope fa-sm"></span>&nbsp;&nbsp;&nbsp;jqocon@gmail.com
+<span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;jqocon@gmail.com
 
-<span class="fas fa-phone fa-sm"></span>&nbsp;&nbsp;+34 676 237 630
+<span class="fas fa-phone fa-lg"></span>&nbsp;&nbsp;+34 676 237 630
 
-<span class="fab fa-linkedin fa-sm"></span>&nbsp;&nbsp;[LinkedIn](https://es.linkedin.com/in/jqocon)
+<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;[LinkedIn](https://es.linkedin.com/in/jqocon)
 
-<span class="fab fa-github fa-sm"></span>&nbsp;&nbsp;[GitHub](https://github.com/yeikiu)
+<span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/yeikiu)
 
 Experience
 ----------
@@ -63,17 +63,17 @@ Education
 	
 IT Strengths
 ------------
-<span class="fas fa-code fa-md">
+<span class="fas fa-code fa-lg">
 :	
 	PHP, Java, Javascript, HTML, CSS, TeX
 
-<span class="fas fa-server fa-md">
+<span class="fas fa-server fa-lg">
 :	Apache, Tomcat, NodeJS
 
-<span class="fas fa-database fa-md">
+<span class="fas fa-database fa-lg">
 :	Oracle, MySQL, PostreSQL, MongoDB  
 
-<span class="fas fa-code-branch fa-md">
+<span class="fas fa-code-branch fa-lg">
 :	GIT, Android, Spring, AngularJS, jQuery, Bootstrap
 
 Human Languages
