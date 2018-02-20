@@ -1,4 +1,3 @@
-% Joaquín Ocón - Resume
 <br />
 <br />
 ![](cvalt.png)
