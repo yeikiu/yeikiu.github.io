@@ -102,4 +102,4 @@ Awards
 	[Kinder360](https://kinder360.com) was selected between applicants worldwide
 
 ------
-> Resume available online @ [https://yeikiu.github.io/cv](https://yeikiu.github.io/cv)
+> Resume available online @ [https://yeikiu.github.io/resume](https://yeikiu.github.io/resume)
