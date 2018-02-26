@@ -1,4 +1,4 @@
-Visit my CV online @ [https://yeikiu.github.io/cv](https://yeikiu.github.io/cv)
+Visit my CV online @ [https://yeikiu.github.io/resume](https://yeikiu.github.io/resume)
 
 # Markdown to HTML with [Pandoc](https://pandoc.org)
 
