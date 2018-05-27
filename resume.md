@@ -100,5 +100,17 @@ Awards
 	[Área 31 Entrepreneurship & Innovation Center](https://www.ie.edu/entrepreneurship/)  
 	[Kinder360](https://kinder360.com) was selected between applicants worldwide
 
+Personal Projects
+----------
+2018
+: 	*firmasegura.com*  
+	[https://firmasegura.com](https://firmasegura.com)  
+	Online PDF generator/Signing assistant focused on spanish certificates
+
+2018
+: 	*anyone.chat*  
+	[https://anyone.chat](https://anyone.chat)  
+	A simple geolocated realtime chat built with AngularJS, Firebase and GeoFire
+
 ------
 > Resume available online @ [https://yeikiu.github.io/resume](https://yeikiu.github.io/resume)
