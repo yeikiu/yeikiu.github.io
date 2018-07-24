@@ -100,12 +100,17 @@ Awards
 	[Área 31 Entrepreneurship & Innovation Center](https://www.ie.edu/entrepreneurship/)  
 	[Kinder360](https://kinder360.com) was selected between applicants worldwide
 
+2018
+:	*Won the FMP Hackathon by FEMEPA*  
+	[FEMEPA](http://femepa.org/web/)  
+	1st Prize went to our [EcoCanarias](https://ecocanarias.life) project
+
 Personal Projects
 ----------
 2018
 : 	*firmasegura.com*  
 	[https://firmasegura.com](https://firmasegura.com)  
-	Online PDF generator/Signing assistant focused on spanish certificates
+	An online PDF generator/signer assistant
 
 2018
 : 	*anyone.chat*  
