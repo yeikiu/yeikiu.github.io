@@ -87,14 +87,14 @@ Languages & IT Strengths
 
 Human Languages
 ------------
-Spanish
+*Spanish*
 :	Native
 
-English
+*English*
 :	Professional working proficiency  
 	Cambridge University First Certificate
 
-Italian
+*Italian*
 :	Basic user  
 
 Awards
@@ -134,4 +134,4 @@ Personal Projects
 <br /><br /><br />
 
 ------
-> Resume available online @ [https://yeikiu.github.io/resume](https://yeikiu.github.io/resume)
+> Download [PDF version](https://yeikiu.github.io/resume.pdf) | See resume online @ [https://yeikiu.github.io/resume](https://yeikiu.github.io/resume)
