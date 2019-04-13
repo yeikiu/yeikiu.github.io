@@ -26,12 +26,19 @@ Personal Details
 
 <span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/yeikiu)
 
+<br />  
+
 Experience
 ----------
-2017 - Now
+2018 - Now
+: 	*Automation Specialist*  
+	[Freelance](https://github.com/yeikiu)  
+	Full-time multi-project lead/developer
+
+2017 - 2018
 : 	*Application Development Senior Analyst*  
 	[Accenture Outsourcing Services SA](https://www.accenture.com)  
-	Full-time frontend/backend developer
+	Full-Stack Developer
 
 2015 - 2016
 :	*Project Manager | Back-End Developer*  
@@ -54,6 +61,8 @@ Experience
 :	*CTO | Co-Founder*  
 	[Team & Talent Technologies](http://teamandtalent.com/)
 
+<br /><br />
+
 Education
 ---------
 2016
@@ -65,16 +74,16 @@ Languages & IT Strengths
 ------------
 <span class="fas fa-code fa-lg">
 :	
-	PHP, Java, Javascript, HTML, CSS, TeX
+	Javascript, HTML, CSS,Java, PHP, TeX
 
 <span class="fas fa-server fa-lg">
 :	Apache, Tomcat, NodeJS
 
 <span class="fas fa-database fa-lg">
-:	Oracle, MySQL, PostreSQL, MongoDB  
+:	Oracle, MariaDB, MySQL, PostreSQL, MongoDB  
 
 <span class="fas fa-code-branch fa-lg">
-:	GIT, Android, Spring, AngularJS, jQuery, Bootstrap
+:	GIT, Android, Spring, AngularJS, Bootstrap
 
 Human Languages
 ------------
@@ -107,6 +116,11 @@ Awards
 
 Personal Projects
 ----------
+2019
+: 	*WaAr - WhatsApp Auto-Reply bot*  
+	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  
+	Yet another Puppeteer's experiment
+
 2018
 : 	*firmasegura.com*  
 	[https://firmasegura.com](https://firmasegura.com)  
@@ -116,6 +130,8 @@ Personal Projects
 : 	*anyone.chat*  
 	[https://anyone.chat](https://anyone.chat)  
 	A simple geolocated realtime chat built with AngularJS, Firebase and GeoFire
+
+<br /><br /><br />
 
 ------
 > Resume available online @ [https://yeikiu.github.io/resume](https://yeikiu.github.io/resume)
