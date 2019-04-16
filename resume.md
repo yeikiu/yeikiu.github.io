@@ -61,7 +61,7 @@ Experience
 :	*CTO | Co-Founder*  
 	[Team & Talent Technologies](http://teamandtalent.com/)
 
-<br /><br />
+<br />
 
 Education
 ---------
@@ -134,4 +134,4 @@ Personal Projects
 <br /><br /><br />
 
 ------
-> Download [PDF version](https://yeikiu.github.io/resume.pdf) | See resume online @ [https://yeikiu.github.io/resume](https://yeikiu.github.io/resume)
+> [https://yeikiu.github.io/resume](https://yeikiu.github.io/resume) | Download [PDF version](https://yeikiu.github.io/resume.pdf)
