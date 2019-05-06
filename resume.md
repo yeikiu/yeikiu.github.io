@@ -91,11 +91,7 @@ Human Languages
 :	Native
 
 *English*
-:	Professional working proficiency  
-	Cambridge University First Certificate
-
-*Italian*
-:	Basic user  
+:	Professional working proficiency / Cambridge University First Certificate
 
 Awards
 ------
@@ -114,12 +110,17 @@ Awards
 	[FEMEPA](http://femepa.org/web/)  
 	1st Prize went to our [EcoCanarias](https://ecocanarias.life) project
 
-Personal Projects
+Public Personal Projects
 ----------
 2019
-: 	*WaAr - WhatsApp Auto-Reply bot*  
+: 	*WaAr Bot*  
 	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  
-	Yet another Puppeteer's experiment
+	WhatsApp Auto-Reply for NodeJS
+
+2018
+: 	*yeikiu.github.io*  
+	[https://github.com/yeikiu/yeikiu.github.io](https://github.com/yeikiu/yeikiu.github.io)  
+	My resume online as a GitHub repo
 
 2018
 : 	*firmasegura.com*  
