@@ -74,7 +74,7 @@ Languages & IT Strengths
 ------------
 <span class="fas fa-code fa-lg">
 :	
-	Javascript, HTML, CSS,Java, PHP, TeX
+	Javascript, HTML, CSS, Java, PHP, TeX
 
 <span class="fas fa-server fa-lg">
 :	Apache, Tomcat, NodeJS
