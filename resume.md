@@ -1,6 +1,6 @@
 <br />
 <br />
-![](cvalt.png)
+![](logo.png)
 
 # Joaquín Ocón
 
