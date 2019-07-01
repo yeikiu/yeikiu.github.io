@@ -20,8 +20,6 @@ Personal Details
 ---------
 <span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;jqocon@gmail.com
 
-<span class="fas fa-phone fa-lg"></span>&nbsp;&nbsp;+34 676 237 630
-
 <span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://es.linkedin.com/in/jqocon)
 
 <span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/yeikiu)
@@ -61,7 +59,7 @@ Experience
 :	*CTO | Co-Founder*  
 	[Team & Talent Technologies](http://teamandtalent.com/)
 
-<br />
+<br /><br />  
 
 Education
 ---------
