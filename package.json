@@ -14,6 +14,6 @@
     "wkhtmltopdf": "^0.3.4"
   },
   "scripts": {
-    "md2pdf": "rimraf dist && ./pdf-hook.sh"
+    "md2pdf": "rimraf resume && ./pdf-hook.sh"
   }
 }

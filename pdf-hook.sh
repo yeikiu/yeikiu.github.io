@@ -1,8 +1,8 @@
 #!/bin/bash
 
 cd src
-copyfiles -a '**/*' '../dist'
-cd ../dist
+copyfiles -a '**/*' '../resume'
+cd ../resume
 
 # Markdown to HTML with Pandoc
 pandoc --standalone -c style.css -o index.html resume.md
