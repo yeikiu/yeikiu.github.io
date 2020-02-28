@@ -131,7 +131,7 @@ Personal Projects
 	[https://anyone.chat](https://anyone.chat)  
 	A simple geolocated realtime chat built with AngularJS, Firebase and GeoFire
 
-<br /><br /><br />
+<br /><br />
 
 ------
 > Download [PDF version](https://yeikiu.github.io/resume/resume.pdf) | See resume online @ [https://yeikiu.github.io](https://yeikiu.github.io)
