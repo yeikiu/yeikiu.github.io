@@ -1,8 +1,6 @@
 #!/bin/bash
 
-cd src
-copyfiles style.css ../dist/style.css
-cd ..
+copyfiles 'src/style.css' 'dist/style.css'
 
 # Markdown to HTML with Pandoc
 pandoc --standalone -c style.css -o dist/resume.html src/resume.md
