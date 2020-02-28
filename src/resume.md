@@ -1,6 +1,6 @@
 <br />
 <br />
-![](cvalt.png)
+![](logo.png)
 
 # Joaquín Ocón
 
@@ -19,8 +19,6 @@
 Personal Details
 ---------
 <span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;jqocon@gmail.com
-
-<span class="fas fa-phone fa-lg"></span>&nbsp;&nbsp;+34 676 237 630
 
 <span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://es.linkedin.com/in/jqocon)
 
@@ -94,9 +92,6 @@ Human Languages
 :	Professional working proficiency  
 	Cambridge University First Certificate
 
-*Italian*
-:	Basic user  
-
 Awards
 ------
 2015
@@ -116,6 +111,11 @@ Awards
 
 Personal Projects
 ----------
+2019
+: 	*Vue Base Blog*  
+	[https://github.com/yeikiu/vue-base-blog](https://github.com/yeikiu/vue-base-blog)  
+	Minimal config blog engine
+
 2019
 : 	*WaAr - WhatsApp Auto-Reply bot*  
 	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  

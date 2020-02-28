@@ -9,15 +9,9 @@
   },
   "devDependencies": {
     "copyfiles": "^2.2.0",
-    "husky": "^4.2.3",
     "pandoc": "^0.2.0",
     "rimraf": "^3.0.2",
     "wkhtmltopdf": "^0.3.4"
-  },
-  "husky": {
-    "hooks": {
-        "pre-commit": "yarn md2pdf"
-    }
   },
   "scripts": {
     "md2pdf": "rimraf dist && ./pdf-hook.sh"
