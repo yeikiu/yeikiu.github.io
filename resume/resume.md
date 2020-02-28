@@ -134,4 +134,4 @@ Personal Projects
 <br /><br /><br />
 
 ------
-> Download [PDF version](https://yeikiu.github.io/dist/resume.pdf) | See resume online @ [https://yeikiu.github.io](https://yeikiu.github.io)
+> Download [PDF version](https://yeikiu.github.io/resume/resume.pdf) | See resume online @ [https://yeikiu.github.io](https://yeikiu.github.io)
