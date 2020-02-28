@@ -1,4 +1,4 @@
-Visit my CV online @ [https://yeikiu.github.io/dist/resume](https://yeikiu.github.io/dist/resume)
+Visit my CV online @ [https://yeikiu.github.io](https://yeikiu.github.io)
 
 # USAGE
 
