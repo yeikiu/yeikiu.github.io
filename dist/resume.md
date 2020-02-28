@@ -1,6 +1,6 @@
 <br />
 <br />
-![](cvalt.png)
+![](logo.png)
 
 # Joaquín Ocón
 
@@ -19,8 +19,6 @@
 Personal Details
 ---------
 <span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;jqocon@gmail.com
-
-<span class="fas fa-phone fa-lg"></span>&nbsp;&nbsp;+34 676 237 630
 
 <span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://es.linkedin.com/in/jqocon)
 
@@ -61,7 +59,7 @@ Experience
 :	*CTO | Co-Founder*  
 	[Team & Talent Technologies](http://teamandtalent.com/)
 
-<br /><br />
+<br /><br />  
 
 Education
 ---------
@@ -74,7 +72,7 @@ Languages & IT Strengths
 ------------
 <span class="fas fa-code fa-lg">
 :	
-	Javascript, HTML, CSS,Java, PHP, TeX
+	Javascript, HTML, CSS, Java, PHP, TeX
 
 <span class="fas fa-server fa-lg">
 :	Apache, Tomcat, NodeJS
@@ -91,11 +89,7 @@ Human Languages
 :	Native
 
 *English*
-:	Professional working proficiency  
-	Cambridge University First Certificate
-
-*Italian*
-:	Basic user  
+:	Professional working proficiency / Cambridge University First Certificate
 
 Awards
 ------
@@ -114,12 +108,17 @@ Awards
 	[FEMEPA](http://femepa.org/web/)  
 	1st Prize went to our [EcoCanarias](https://ecocanarias.life) project
 
-Personal Projects
+Public Personal Projects
 ----------
 2019
-: 	*WaAr - WhatsApp Auto-Reply bot*  
+: 	*WaAr Bot*  
 	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  
-	Yet another Puppeteer's experiment
+	WhatsApp Auto-Reply for NodeJS
+
+2018
+: 	*yeikiu.github.io*  
+	[https://github.com/yeikiu/yeikiu.github.io](https://github.com/yeikiu/yeikiu.github.io)  
+	My resume online as a GitHub repo
 
 2018
 : 	*firmasegura.com*  
@@ -134,4 +133,8 @@ Personal Projects
 <br /><br /><br />
 
 ------
+<<<<<<< HEAD:dist/resume.md
 > Download [PDF version](https://yeikiu.github.io/dist/resume.pdf) | See resume online @ [https://yeikiu.github.io/resume](https://yeikiu.github.io/resume)
+=======
+> [https://yeikiu.github.io/resume](https://yeikiu.github.io/resume) | Download [PDF version](https://yeikiu.github.io/resume.pdf)
+>>>>>>> 8cd71c3a09d013f1ca20c7a8fca97b6a1fa168ca:resume.md
