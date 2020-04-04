@@ -114,7 +114,7 @@ Personal Projects
 2019
 : 	*InstaBio*  
 	[https://instab.io](https://instab.io)  
-	Minimal config blog engine
+	One link to link them all!
 
 2019
 : 	*Vue Base Blog*  
