@@ -1,6 +1,6 @@
 {
   "name": "cv-github.io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "@yeikiu",
   "license": "CC0-1.0",
   "repository": {
@@ -9,11 +9,17 @@
   },
   "devDependencies": {
     "copyfiles": "^2.2.0",
+    "husky": "^4.2.3",
     "pandoc": "^0.2.0",
     "rimraf": "^3.0.2",
     "wkhtmltopdf": "^0.3.4"
   },
   "scripts": {
     "md2pdf": "rimraf resume && ./pdf-hook.sh"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn md2pdf"
+    }
   }
 }

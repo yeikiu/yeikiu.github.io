@@ -81,7 +81,7 @@ Languages & IT Strengths
 :	Oracle, MariaDB, MySQL, PostreSQL, MongoDB  
 
 <span class="fas fa-code-branch fa-lg">
-:	GIT, Android, Spring, AngularJS, Bootstrap
+:	GIT, Android, Spring, AngularJS, Bootstrap, ReactJS, VueJS
 
 Human Languages
 ------------
@@ -112,24 +112,19 @@ Awards
 Personal Projects
 ----------
 2019
+: 	*InstaBio*  
+	[https://instab.io](https://instab.io)  
+	Minimal config blog engine
+
+2019
 : 	*Vue Base Blog*  
-	[https://github.com/yeikiu/vue-base-blog](https://github.com/yeikiu/vue-base-blog)  
+	[https://yeikiu.github.io/vue-base-blog](https://yeikiu.github.io/vue-base-blog)
 	Minimal config blog engine
 
 2019
 : 	*WaAr - WhatsApp Auto-Reply bot*  
 	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  
 	Yet another Puppeteer's experiment
-
-2018
-: 	*firmasegura.com*  
-	[https://firmasegura.com](https://firmasegura.com)  
-	An online PDF generator/signer assistant
-
-2018
-: 	*anyone.chat*  
-	[https://anyone.chat](https://anyone.chat)  
-	A simple geolocated realtime chat built with AngularJS, Firebase and GeoFire
 
 <br />
 

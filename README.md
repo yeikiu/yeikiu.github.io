@@ -15,6 +15,6 @@
 - `src/resume.md`
 
 
-## Generate PDF
+## Generate PDF under `/resume` folder
 
 - `yarn md2pdf`
