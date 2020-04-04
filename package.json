@@ -13,6 +13,9 @@
     "rimraf": "^3.0.2",
     "wkhtmltopdf": "^0.3.4"
   },
+  "resolutions": {
+    "minimist": "^1.2.3"
+  },
   "scripts": {
     "md2pdf": "rimraf resume && ./pdf-hook.sh"
   }
