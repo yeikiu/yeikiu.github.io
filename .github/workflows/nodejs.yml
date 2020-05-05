@@ -25,4 +25,4 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: chmod 755 ./pdf-hook.sh
-    - run: npm run pdf-hook
+    - run: npm install && npm run pdf-hook
