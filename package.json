@@ -17,6 +17,7 @@
     "minimist": "^1.2.3"
   },
   "scripts": {
-    "md2pdf": "rimraf resume && ./pdf-hook.sh"
+    "md2pdf": "rimraf resume && ./pdf-hook.sh",
+    "pdf-hook": "./pdf-hook.sh"
   }
 }
