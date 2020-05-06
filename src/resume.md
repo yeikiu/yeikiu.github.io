@@ -1,3 +1,4 @@
+<title>Joaquín Ocón - Senior Software Analyst</title>
 <br />
 <br />
 ![](src/logo.png)
@@ -59,7 +60,7 @@ Experience
 :	*CTO | Co-Founder*  
 	[Team & Talent Technologies](http://teamandtalent.com/)
 
-<br /><br />
+<div class="page-break"></div>
 
 Education
 ---------
