@@ -17,12 +17,12 @@ jobs:
           mkdir resume
           cp -ra src/* resume/
       - uses: docker://pandoc/core:2.9
-          with:
-            args: -c resume/style.css -o resume/index.html resume/resume.md
+        with:
+          args: -c resume/style.css -o resume/index.html resume/resume.md
       - uses: docker://pandoc/latex:2.9
-          with:
-            args: -o resume/index.pdf resume/resume.html
+        with:
+          args: -o resume/index.pdf resume/resume.html
       - uses: actions/upload-artifact@master
-          with:
-            name: output
-            path: output
+        with:
+          name: output
+          path: output
