@@ -7,7 +7,7 @@ on:
     branches: [ master ]
 
 jobs:
-  md-html:
+  md-html-pdf:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,19 +15,15 @@ jobs:
           mkdir resume
           cp -ra src/* resume/
 
-      - uses: docker://pandoc/core:2.9
+      - uses: docker://pandoc/latex:2.9
         with:
           args: -c resume/style.css -o resume/index.html resume/resume.md
-  
-  # html-pdf:
-  #   runs-on: ubuntu-latest
-  #   needs: md-html
-  #   steps:
+
       - uses: docker://pandoc/latex:2.9
         with:
           args: -o resume/resume.pdf resume/index.html
 
       - uses: actions/upload-artifact@master
         with:
-          name: output
-          path: output
+          name: resume
+          path: resume
