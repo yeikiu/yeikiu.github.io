@@ -18,7 +18,7 @@ jobs:
 
       - uses: docker://pandoc/core:2.9
         with:
-          args: -c resume/style.css -o resume/index.html resume/resume.md
+          args: --standalone -c resume/style.css -o resume/index.html resume/resume.md
 
       - run: |
           sudo apt-get update
