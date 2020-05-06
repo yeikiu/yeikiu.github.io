@@ -25,9 +25,4 @@ jobs:
       
       uses: docker://pandoc/core:2.9
       run: chmod 755 ./pdf-hook.sh
-      run: npm install && npm run pdf-hook
-      
-      uses: actions/upload-artifact@master
-        with:
-          name: resume
-          path: resume
+      run: ./pdf-hook.sh
