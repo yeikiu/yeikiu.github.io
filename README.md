@@ -12,9 +12,11 @@
 
 ## Modify
 
-- `src/resume.md`
+- `src/logo.png` with your own logo/profile img
+- `.github/workflows/md_html_pdf.yml` with you own `git config` values
+- `src/resume.md` with your resume data
 
 
-## Generate PDF under `/resume` dir
+## Generate output
 
-- `yarn md2pdf`
+> Simply push to `master` and let GitHub Actions generate and commit the `resume` folder with final files
