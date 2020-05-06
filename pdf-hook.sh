@@ -3,6 +3,7 @@
 sudo apt-get install wkhtmltopdf
 echo "wkhtmltopdf Installed!"
 
+mkdir resume
 cp -ra src/* resume/
 cd resume
 
