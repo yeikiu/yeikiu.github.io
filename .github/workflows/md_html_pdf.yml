@@ -12,7 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          rm -r resume_dist
           mkdir resume_dist
           cp -ra src/* resume_dist/
 
