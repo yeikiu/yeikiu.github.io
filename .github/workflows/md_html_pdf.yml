@@ -25,6 +25,7 @@ jobs:
           git config --global user.email "jqocon@gmail.com"
           git config --global user.name "yeikiu"
           cd resume_dist
-          git add . -f
+          git init
+          git add .
           git commit -m 'deploy: resume_dist to gh-pages'
-          git push origin master:gh-pages
+          git push -f origin master:gh-pages
