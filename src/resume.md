@@ -25,7 +25,6 @@ Personal Details
 
 <span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/yeikiu)
 
-<br />  
 
 Experience
 ----------
