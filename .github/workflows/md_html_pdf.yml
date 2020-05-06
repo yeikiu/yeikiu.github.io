@@ -11,9 +11,6 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
-      - run: |
-          mkdir resume_dist
-          cp -ra src/* resume_dist/
 
       - uses: docker://pandoc/core:2.9
         with:
