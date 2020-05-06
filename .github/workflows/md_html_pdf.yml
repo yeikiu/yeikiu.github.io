@@ -19,8 +19,8 @@ jobs:
       - run: |
           sudo apt-get install xvfb libfontconfig wkhtmltopdf
           xvfb-run wkhtmltopdf -L 20mm -R 20mm index.html resume.pdf
-          git config --global user.email "jqocon@gmail.com"
-          git config --global user.name "yeikiu"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add index.html resume.pdf
           git commit -m '[CI:deploy] index.html & resume.pdf'
           git push -u origin master

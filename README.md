@@ -13,7 +13,6 @@
 
 - `src/logo.png` with your own logo/profile img
 - `src/resume.md` with your resume data
-- `.github/workflows/md_html_pdf.yml` with you own `git config` values
 
 
 ## Generate output
