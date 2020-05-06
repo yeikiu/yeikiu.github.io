@@ -1,4 +1,4 @@
-name: md > html > pdf CI
+name: md > html > pdf
 
 on:
   push:
