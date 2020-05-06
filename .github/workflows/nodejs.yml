@@ -7,7 +7,7 @@ on:
     branches: [ master ]
 
 jobs:
-  md > html > pdf:
+  md-html-pdf:
 
     runs-on: ubuntu-latest
 
