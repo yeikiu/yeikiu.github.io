@@ -1,4 +1,3 @@
-<title>Joaquín Ocón - Senior Software Analyst</title>
 <br />
 <br />
 ![](src/logo.png)
