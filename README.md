@@ -1,7 +1,7 @@
 👀 Visit my CV online @ [https://yeikiu.github.io](https://yeikiu.github.io)
 
-- [Markdown Source](https://yeikiu.github.io/resume/resume.md)
-- [PDF Result](https://yeikiu.github.io/resume/resume.pdf)
+- [Markdown Source](https://yeikiu.github.io/src/resume.md)
+- [PDF Result](https://yeikiu.github.io/resume.pdf)
 
 # USAGE
 
