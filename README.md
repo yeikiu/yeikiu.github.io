@@ -14,4 +14,4 @@
 
 ## Generate output
 
-Simply push to `master` and let GitHub Actions generate and commit the `resume` folder with final files
+Simply push to `master` and let GitHub Actions generate and commit both `index.html`and `resume.pdf` final files

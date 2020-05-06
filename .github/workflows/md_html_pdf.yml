@@ -17,14 +17,13 @@ jobs:
 
       - uses: docker://pandoc/core:2.9
         with:
-          args: --standalone -c style.css -o resume_dist/index.html resume_dist/resume.md
+          args: --standalone -c style.css -o index.html src/resume.md
 
       - run: |
           sudo apt-get install xvfb libfontconfig wkhtmltopdf
-          xvfb-run wkhtmltopdf -L 20mm -R 20mm resume_dist/index.html resume_dist/resume.pdf
+          xvfb-run wkhtmltopdf -L 20mm -R 20mm index.html resume.pdf
           git config --global user.email "jqocon@gmail.com"
           git config --global user.name "yeikiu"
-          cd resume_dist
-          git add . -f
-          git commit -m 'deploy: resume_dist to gh-pages'
-          git push -u origin gh-pages
+          git add index.html resume.pdf
+          git commit -m 'deploy: index.html & resume.pdf'
+          git push -u origin master
