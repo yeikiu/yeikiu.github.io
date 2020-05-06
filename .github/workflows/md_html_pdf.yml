@@ -23,6 +23,7 @@ jobs:
       - run: |
           sudo apt-get update
           sudo apt-get install xvfb libfontconfig wkhtmltopdf
+          export DISPLAY=:0
           wkhtmltopdf -L 20mm -R 20mm resume/index.html resume/resume.pdf
           git config --global user.email "jqocon@gmail.com"
           git config --global user.name "yeikiu"
