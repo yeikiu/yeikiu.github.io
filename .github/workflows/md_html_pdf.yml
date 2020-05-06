@@ -24,5 +24,7 @@ jobs:
           args: -o resume/resume.pdf resume/index.html
 
       - run: |
+          git config --global user.email "jqocon@gmail.com"
+          git config --global user.name "yeikiu"
           git add -A
           git commit -m 'deploy: resume'
