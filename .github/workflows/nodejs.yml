@@ -13,9 +13,21 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - run: |
+          mkdir resume
+          cp -ra src/* resume/
+          cd resume
       - uses: docker://pandoc/core:2.9
-      - run: chmod 755 ./pdf-hook.sh
-      - run: ./pdf-hook.sh
+        with:
+          args: |
+            --standalone
+            -c style.css
+            -o index.html
+            resume.md
+      - run: |
+          sudo apt-get install wkhtmltopdf
+          echo "wkhtmltopdf Installed!"
+          wkhtmltopdf -L 20mm -R 20mm index.html resume.pdf
       - uses: actions/upload-artifact@master
         with:
           name: output
