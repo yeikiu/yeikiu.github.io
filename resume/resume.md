@@ -59,7 +59,7 @@ Experience
 :	*CTO | Co-Founder*  
 	[Team & Talent Technologies](http://teamandtalent.com/)
 
-<br /><br />
+<br /><br /><br /><br />
 
 Education
 ---------
