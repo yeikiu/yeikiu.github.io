@@ -8,7 +8,7 @@ on:
 
 jobs:
   md-html-pdf:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18
     steps:
       - uses: actions/checkout@v2
       - run: |
@@ -21,7 +21,6 @@ jobs:
           args: --standalone -c style.css -o resume/index.html resume/resume.md
 
       - run: |
-          sudo apt-get update
           sudo apt-get install xvfb libfontconfig wkhtmltopdf
           xvfb-run wkhtmltopdf -L 20mm -R 20mm resume/index.html resume/resume.pdf
           git config --global user.email "jqocon@gmail.com"

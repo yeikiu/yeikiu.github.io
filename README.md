@@ -5,12 +5,7 @@
 
 # USAGE
 
-## Fetch dependencies
-
-- `yarn install`
-
-
-## Modify
+## Modify source files
 
 - `src/logo.png` with your own logo/profile img
 - `.github/workflows/md_html_pdf.yml` with you own `git config` values
@@ -19,4 +14,4 @@
 
 ## Generate output
 
-> Simply push to `master` and let GitHub Actions generate and commit the `resume` folder with final files
+Simply push to `master` and let GitHub Actions generate and commit the `resume` folder with final files
