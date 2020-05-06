@@ -19,10 +19,10 @@ jobs:
         with:
           args: -c resume/style.css -o resume/index.html resume/resume.md
   
-  html-pdf:
-    runs-on: ubuntu-latest
-    needs: md-html
-    steps:
+  # html-pdf:
+  #   runs-on: ubuntu-latest
+  #   needs: md-html
+  #   steps:
       - uses: docker://pandoc/latex:2.9
         with:
           args: -o resume/resume.pdf resume/index.html
