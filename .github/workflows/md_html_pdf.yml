@@ -28,3 +28,4 @@ jobs:
           git config --global user.name "yeikiu"
           git add -A
           git commit -m 'deploy: resume'
+          git push origin master
