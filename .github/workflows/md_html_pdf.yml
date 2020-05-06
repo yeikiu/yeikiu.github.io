@@ -23,7 +23,6 @@ jobs:
         with:
           args: -o resume/resume.pdf resume/index.html
 
-      - uses: actions/upload-artifact@master
-        with:
-          name: resume
-          path: resume
+      - run: |
+          git add -A
+          git commit -m 'deploy: resume'
