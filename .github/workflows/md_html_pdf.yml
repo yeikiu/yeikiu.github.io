@@ -17,7 +17,7 @@ jobs:
 
       - uses: docker://pandoc/core:2.9
         with:
-          args: --standalone -c style.css -o index.html src/resume.md
+          args: --standalone -c src/style.css -o index.html src/resume.md
 
       - run: |
           sudo apt-get install xvfb libfontconfig wkhtmltopdf
