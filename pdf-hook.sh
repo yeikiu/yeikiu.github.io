@@ -1,9 +1,9 @@
 #!/bin/bash
 
-apt-get install wkhtmltopdf
+sudo apt-get install wkhtmltopdf
 echo "wkhtmltopdf Installed!"
 
-cp -r src/**/* resume/
+cp -ra src/* resume/
 cd resume
 
 # # Markdown to HTML with Pandoc
