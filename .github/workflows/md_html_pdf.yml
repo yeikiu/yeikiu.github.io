@@ -1,4 +1,4 @@
-name: md > html > pdf
+name: md>html>pdf
 
 on:
   push:
