@@ -21,8 +21,8 @@ jobs:
           args: -c resume/style.css -o resume/index.html resume/resume.md
       - run: |
           sudo apt-get install wkhtmltopdf
-          echo "wkhtmltopdf Installed!"
-          wkhtmltopdf -L 20mm -R 20mm index.html resume.pdf
+          echo "✔️ wkhtmltopdf Installed!"
+          wkhtmltopdf -L 20mm -R 20mm resume/index.html resume/resume.pdf
       - uses: actions/upload-artifact@master
         with:
           name: output
