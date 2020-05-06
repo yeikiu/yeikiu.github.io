@@ -1,11 +1,14 @@
 #!/bin/bash
 
-cd src
-copyfiles -a '**/*' '../resume'
-cd ../resume
+apt-get install wkhtmltopdf
+echo "wkhtmltopdf Installed!"
 
-# Markdown to HTML with Pandoc
-npx pandoc --standalone -c style.css -o index.html resume.md
+# cd src
+# copyfiles -a '**/*' '../resume'
+# cd ../resume
 
-# HTML to PDF with WKhtmlToPDF
-npx wkhtmltopdf -L 20mm -R 20mm index.html resume.pdf
+# # Markdown to HTML with Pandoc
+# npx pandoc --standalone -c style.css -o index.html resume.md
+
+# # HTML to PDF with WKhtmlToPDF
+# npx wkhtmltopdf -L 20mm -R 20mm index.html resume.pdf
