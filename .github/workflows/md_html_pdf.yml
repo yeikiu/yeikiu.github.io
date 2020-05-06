@@ -19,10 +19,7 @@ jobs:
           cd resume
       - uses: docker://pandoc/core:2.9
         with:
-          args: |
-            -c style.css
-            -o index.html
-            resume.md
+          args: -c style.css -o index.html resume.md
       - run: |
           sudo apt-get install wkhtmltopdf
           echo "wkhtmltopdf Installed!"
