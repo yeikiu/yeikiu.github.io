@@ -12,19 +12,20 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          rm -r resume
-          mkdir resume
-          cp -ra src/* resume/
+          rm -r resume_dist
+          mkdir resume_dist
+          cp -ra src/* resume_dist/
 
       - uses: docker://pandoc/core:2.9
         with:
-          args: --standalone -c style.css -o resume/index.html resume/resume.md
+          args: --standalone -c style.css -o resume_dist/index.html resume_dist/resume.md
 
       - run: |
           sudo apt-get install xvfb libfontconfig wkhtmltopdf
-          xvfb-run wkhtmltopdf -L 20mm -R 20mm resume/index.html resume/resume.pdf
+          xvfb-run wkhtmltopdf -L 20mm -R 20mm resume_dist/index.html resume_dist/resume.pdf
           git config --global user.email "jqocon@gmail.com"
           git config --global user.name "yeikiu"
-          git add -A
-          git commit -m 'deploy: resume'
-          git push origin master
+          cd resume_dist
+          git add .
+          git commit -m 'deploy: resume_dist to gh-pages'
+          git push origin master:gh-pages
