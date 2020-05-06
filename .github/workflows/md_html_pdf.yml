@@ -15,15 +15,14 @@ jobs:
           mkdir resume
           cp -ra src/* resume/
 
-      - uses: docker://pandoc/latex:2.9
+      - uses: docker://pandoc/core:2.9
         with:
           args: -c resume/style.css -o resume/index.html resume/resume.md
 
-      - uses: docker://pandoc/latex:2.9
-        with:
-          args: -o resume/resume.pdf resume/index.html
-
       - run: |
+          sudo apt-get update
+          sudo apt-get install xvfb libfontconfig wkhtmltopdf
+          wkhtmltopdf -L 20mm -R 20mm resume/index.html resume/resume.pdf
           git config --global user.email "jqocon@gmail.com"
           git config --global user.name "yeikiu"
           git add -A
