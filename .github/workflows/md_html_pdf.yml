@@ -1,6 +1,7 @@
 name: md_html_pdf
 
 on:
+
   push:
     branches: [ master ]
     paths:
