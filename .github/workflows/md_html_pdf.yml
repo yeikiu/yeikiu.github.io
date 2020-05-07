@@ -3,6 +3,7 @@ name: md>html>pdf
 on:
   push:
     branches: [ master ]
+    
   pull_request:
     branches: [ master ]
 
