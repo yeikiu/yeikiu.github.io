@@ -1,4 +1,4 @@
-name: md>html>pdf
+name: md_html_pdf
 
 on:
   push:
@@ -12,7 +12,7 @@ on:
       - src/**/*
 
 jobs:
-  md-html-pdf:
+  md_html_pdf:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
@@ -27,5 +27,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add index.html resume.pdf
-          git commit -m '[CI:deploy] index.html & resume.pdf'
+          git commit -m "[CI:deploy] md_html_pdf job"
           git push -u origin master
