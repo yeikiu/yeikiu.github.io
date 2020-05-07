@@ -1,16 +1,9 @@
 name: md_html_pdf
-
 on:
-
   push:
     branches: [ master ]
     paths:
-      - src/**/*
-    
-  pull_request:
-    branches: [ master ]
-    paths:
-      - src/**/*
+      - src/**
 
 jobs:
   md_html_pdf:
