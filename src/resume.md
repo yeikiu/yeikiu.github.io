@@ -1,5 +1,5 @@
-<br />
-<br />
+<br /><br />
+
 ![](src/logo.png)
 
 # Joaquín Ocón
@@ -125,7 +125,7 @@ Personal Projects
 	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  
 	Yet another Puppeteer's experiment
 
-<br />
+<br /><br />
 
 ------
 > Download [PDF version](https://yeikiu.github.io/resume.pdf) | See resume online @ [https://yeikiu.github.io](https://yeikiu.github.io)
