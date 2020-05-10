@@ -22,4 +22,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add index.html resume.pdf
           git commit -m "[CI:deploy] md_html_pdf job"
-          git push -u origin master
+
+      - uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
