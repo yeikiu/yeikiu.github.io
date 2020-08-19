@@ -4,7 +4,8 @@
 
 # Joaquín Ocón
 
-### Senior Full-Stack Developer • Software Engineer • [ULPGC](https://ulpgc.es)  
+### Senior Full-Stack Developer • Software Engineer
+#### [ULPGC](https://ulpgc.es)  
 
 ----
 
