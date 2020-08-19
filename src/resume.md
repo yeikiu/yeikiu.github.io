@@ -4,7 +4,7 @@
 
 # Joaquín Ocón
 
-### Senior Software Analyst • [ULPGC](https://ulpgc.es)  
+### Senior Full-Stack Developer • Software Engineer • [ULPGC](https://ulpgc.es)  
 
 ----
 
@@ -28,8 +28,8 @@ Personal Details
 Experience
 ----------
 2018 - Now
-: 	*Automation Specialist*  
-	[Freelance](https://github.com/yeikiu)  
+: 	*Automation Specialist @ Crypto Company*  
+	[Contractor](https://github.com/yeikiu)  
 	Full-time multi-project lead/developer
 
 2017 - 2018
