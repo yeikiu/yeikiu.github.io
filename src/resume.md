@@ -4,8 +4,7 @@
 
 # Joaquín Ocón
 
-### Senior Full-Stack Developer • Software Engineer
-#### [ULPGC](https://ulpgc.es)  
+### Software Engineer • Senior Full-Stack Developer  
 
 ----
 
@@ -66,7 +65,7 @@ Education
 2016
 :	*Computer Engineer - Master’s Degree*  
 	Focus area: Software Engineering  
-	Universidad de Las Palmas de Gran Canaria (Spain)  
+	[Universidad de Las Palmas de Gran Canaria (Spain)](https://ulpgc.es)  
 	
 Languages & IT Strengths
 ------------
