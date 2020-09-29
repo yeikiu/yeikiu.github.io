@@ -117,7 +117,7 @@ Personal Projects
 
 2019
 : 	*Vue Base Blog*  
-	[https://yeikiu.github.io/vue-base-blog](https://yeikiu.github.io/vue-base-blog)
+	[https://yeikiu.github.io/vue-base-blog](https://yeikiu.github.io/vue-base-blog)  
 	Minimal config blog engine
 
 2019
