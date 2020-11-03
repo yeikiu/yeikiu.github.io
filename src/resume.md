@@ -113,17 +113,22 @@ Personal Projects
 2019
 : 	*InstaBio*  
 	[https://instab.io](https://instab.io)  
-	One link to link them all!
-
-2019
-: 	*Vue Base Blog*  
-	[https://yeikiu.github.io/vue-base-blog](https://yeikiu.github.io/vue-base-blog)  
-	Minimal config blog engine
+	🤩 A true WYSIWYG Social Media Portfolio
 
 2019
 : 	*WaAr - WhatsApp Auto-Reply bot*  
 	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  
-	Yet another Puppeteer's experiment
+	🤖💬 WhatsApp Auto-Reply node cli
+
+2020
+: 	*Vue3 Markdown Blog*  
+	[https://github.com/yeikiu/vue3-md-blog](https://github.com/yeikiu/vue3-md-blog)  
+	✍️ Minimal config Vue3 + Markdown blog engine
+
+2020
+: 	*ts-crypto-cli npm*  
+	[https://github.com/yeikiu/ts-crypto-cli](https://github.com/yeikiu/ts-crypto-cli)  
+	📈 Handy npm cli/lib to operate against some of the most known Crypto Exchanges
 
 <br /><br />
 
