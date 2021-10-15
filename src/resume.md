@@ -79,7 +79,7 @@ Main Languages & IT Strengths
 :	MariaDB, MySQL, PostreSQL, MongoDB, Redis
 
 <span class="fas fa-code-branch fa-lg">
-:	AngularJS, ReactJS, NextJS, VueJS, TailwindCSS, Bootstrap
+:	React, NextJS, VueJS, AngularJS, TailwindCSS, Bootstrap
 
 <span class="fas fa-globe-americas fa-lg">
 :	GIT, Jira, Confluence, Slack
