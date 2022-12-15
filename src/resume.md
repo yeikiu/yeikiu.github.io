@@ -27,8 +27,8 @@ Personal Details
 
 Experience
 ----------
-2018 - Now
-: 	*Automation Specialist @ Crypto Company*  
+2018 - 2022
+: 	*Software Engineer @ Crypto Company*  
 	[Contractor](https://github.com/yeikiu)  
 	Full-time multi-project lead/developer
 
@@ -70,17 +70,16 @@ Education
 Languages & IT Strengths
 ------------
 <span class="fas fa-code fa-lg">
-:	
-	Javascript, HTML, CSS,Java, PHP, TeX
+:	Typescript/Javascript, HTML, CSS, Java, PHP, TeX
 
 <span class="fas fa-server fa-lg">
-:	Apache, Tomcat, NodeJS
+:	NodeJS, Deno, Apache, Tomcat
 
 <span class="fas fa-database fa-lg">
-:	Oracle, MariaDB, MySQL, PostreSQL, MongoDB  
+:	MariaDB, MySQL, PostreSQL, MongoDB, Redis  
 
 <span class="fas fa-code-branch fa-lg">
-:	GIT, Android, Spring, AngularJS, Bootstrap, ReactJS, VueJS
+:	ReactJS, NextJS, VueJS, AngularJS, Bootstrap, TailwindCSS, GIT, Android, Spring
 
 Human Languages
 ------------
@@ -110,25 +109,25 @@ Awards
 
 Personal Projects
 ----------
-2019
-: 	*InstaBio*  
-	[https://instab.io](https://instab.io)  
-	🤩 A true WYSIWYG Social Media Portfolio
+2022
+: 	*DeLowCos Studio*  
+	[https://delowcos.com](https://delowcos.com)  
+	🎛️ Landing page experimenting the fresh framework on top of deno
 
-2019
-: 	*WaAr - WhatsApp Auto-Reply bot*  
-	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  
-	🤖💬 WhatsApp Auto-Reply node cli
+2021
+: 	*ts-kraken npm*  
+	[https://github.com/yeikiu/ts-kraken](https://github.com/yeikiu/ts-kraken)  
+	📈 A versatile unofficial ts-lib & node-repl-cli to operate against the Kraken Crypto Exchange
 
 2020
 : 	*Vue3 Markdown Blog*  
 	[https://github.com/yeikiu/vue3-md-blog](https://github.com/yeikiu/vue3-md-blog)  
 	✍️ Minimal config Vue3 + Markdown blog engine
 
-2020
-: 	*ts-crypto-cli npm*  
-	[https://github.com/yeikiu/ts-crypto-cli](https://github.com/yeikiu/ts-crypto-cli)  
-	📈 Handy npm cli/lib to operate against some of the most known Crypto Exchanges
+2019
+: 	*WaAr - WhatsApp Auto-Reply bot*  
+	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  
+	🤖💬 WhatsApp Auto-Reply node cli
 
 <br /><br />
 
