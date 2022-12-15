@@ -67,19 +67,22 @@ Education
 	Focus area: Software Engineering  
 	[Universidad de Las Palmas de Gran Canaria (Spain)](https://ulpgc.es)  
 	
-Languages & IT Strengths
+Main Languages & IT Strengths
 ------------
 <span class="fas fa-code fa-lg">
-:	Typescript/Javascript, HTML, CSS, Java, PHP, TeX
+:	Typescript, Javascript, Java, PHP, TeX, HTML, CSS
 
 <span class="fas fa-server fa-lg">
-:	NodeJS, Deno, Apache, Tomcat
+:	NodeJS, Nginx, Apache, Tomcat, Docker
 
 <span class="fas fa-database fa-lg">
-:	MariaDB, MySQL, PostreSQL, MongoDB, Redis  
+:	MariaDB, MySQL, PostreSQL, MongoDB, Redis
 
 <span class="fas fa-code-branch fa-lg">
-:	ReactJS, NextJS, VueJS, AngularJS, Bootstrap, TailwindCSS, GIT, Android, Spring
+:	React, NextJS, VueJS, AngularJS, TailwindCSS, Bootstrap
+
+<span class="fas fa-globe-americas fa-lg">
+:	GIT, Jira, Confluence, Slack
 
 Human Languages
 ------------
@@ -93,21 +96,21 @@ Human Languages
 Awards
 ------
 2015
-:	*FbStart Bootstrap Program*  
+:	*Awarded by the FbStart Bootstrap Program*  
 	[Facebook Inc.](https://developers.facebook.com/fbstart)  
 	$5000 on Fb's technology award for [Frysbe](https://frysbe.com) Project
 
 2014
-:	*Joined Área 31 Startup Incubator*  
+:	*Selected to join the Área 31 Startup Incubator*  
 	[Área 31 Entrepreneurship & Innovation Center](https://www.ie.edu/entrepreneurship/)  
 	[Kinder360](https://kinder360.com) was selected between applicants worldwide
 
 2018
-:	*Won the FMP Hackathon by FEMEPA*  
+:	*1st Prize in FMP Hackathon by FEMEPA*  
 	[FEMEPA](http://femepa.org/web/)  
-	1st Prize went to our [EcoCanarias](https://ecocanarias.life) project
+	Project [EcoCanarias](https://ecocanarias.life)
 
-Personal Projects
+Personal Side-Projects
 ----------
 2022
 : 	*DeLowCos Studio*  
