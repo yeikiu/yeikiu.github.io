@@ -1,0 +1,121 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,400italic);
+@import url(https://use.fontawesome.com/releases/v5.15.4/css/all.css);
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'segoe ui', 'fira sans', roboto, noto, 'droid sans', 'liberation sans', 'lucida grande', 'helvetica neue', helvetica, 'franklin gothic medium', 'century gothic', cantarell, oxygen, ubuntu, sans-serif;
+    font-weight: 300;
+    color: #323336;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    width: 580px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    position: relative;
+    margin-bottom: 150px;
+    margin-top: 50px;
+  }
+  @media (max-width: 620px) {
+    body {
+      width: auto;
+      margin: 0 20px;
+    }
+  }
+img,
+  picture {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    width:140px;
+/*     border:50px solid #757575; */
+    border-radius: 1000px;
+    -webkit-border-radius: 1000px;
+    -moz-border-radius: 1000px;
+  }
+
+/* Title of the resume */
+h1 {
+    font-size: 45px;
+    color: #757575;
+    text-align:center;
+    margin-bottom:15px;
+}
+
+/* Titles of categories */
+h2 {
+    color: #4267B2;
+}
+/* There is a bar just before each category */
+h2:before {
+    content: "";
+    display: inline-block;
+    margin-right:1%;
+    width: 16%;
+    height: 10px;
+    background-color: #4267B2;
+}
+h2:hover {
+    background-color: #4267B2;
+    color: #FFFFFF;
+    text-shadow: 1px 1px 1px #333;
+}
+
+h3 {
+    font-size: 25px;
+    color: #757575;
+    text-align:center;
+    margin-bottom:15px;
+}
+
+/* Definitions */
+dt {
+    float: left;
+    clear: left;
+    width: 17%;
+}
+dd {
+    margin-left: 17%;
+    margin-bottom:10px;
+}
+p {
+    margin-top:0;
+    margin-bottom:7px;
+}
+
+/* Blockquotes */
+blockquote {
+    text-align: center
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #FF7417;
+}
+a:hover, a:active {
+    color: #ED6C15;
+    text-decoration: underline;
+}
+
+/* Horizontal separators */
+hr {
+    color: #A6A6A6;
+}
+
+em {
+    font-weight: bold;
+    color: #757575;
+}
+
+@media all {
+    .page-break { 
+        display: none;
+    }
+}
+
+@media print {
+    .page-break { 
+        display: block;
+        page-break-before: always;
+    }
+}
