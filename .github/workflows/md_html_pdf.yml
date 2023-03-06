@@ -13,7 +13,7 @@ jobs:
 
       - uses: docker://pandoc/core:2.9
         with:
-          args: --standalone -c https://github.com/yeikiu/yeikiu.github.io/raw/master/src/style.css -o index.html src/resume.md
+          args: --standalone -o index.html --css=src/style.css --self-contained src/resume.md
 
       - run: |
           sudo apt-get install xvfb libfontconfig wkhtmltopdf
