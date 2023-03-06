@@ -29,7 +29,7 @@ Experience
 ----------
 2023 - Now
 : 	*Software Engineer | Full-Stack Developer*  
-	[Mettoptics S.L.](https://meetoptics.com)
+	[Meetoptics Labs S.L.](https://meetoptics.com)
 
 2018 - 2022
 : 	*Software Engineer | Full-Stack Developer*  
