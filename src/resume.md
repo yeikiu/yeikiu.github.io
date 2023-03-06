@@ -27,15 +27,17 @@ Personal Details
 
 Experience
 ----------
+2023 - Now
+: 	*Software Engineer | Full-Stack Developer*  
+	[Mettoptics S.L.](https://meetoptics.com)
+
 2018 - 2022
-: 	*Software Engineer @ Crypto Company*  
-	[Contractor](https://github.com/yeikiu)  
-	Full-time multi-project lead/developer
+: 	*Software Engineer | Full-Stack Developer*  
+	[Kraken Crypto Exchange](https://kraken.com)
 
 2017 - 2018
 : 	*Application Development Senior Analyst*  
-	[Accenture Outsourcing Services SA](https://www.accenture.com)  
-	Full-Stack Developer
+	[Accenture Outsourcing Services SA](https://www.accenture.com)
 
 2015 - 2016
 :	*Project Manager | Back-End Developer*  
@@ -112,6 +114,11 @@ Awards
 
 Personal Side-Projects
 ----------
+2023
+: 	*MyHrefs.com*  
+	[https://myhrefs.com](https://myhrefs.com)  
+	🤩 Highly customisable social-content showcase
+
 2022
 : 	*DeLowCos Studio*  
 	[https://delowcos.com](https://delowcos.com)  
