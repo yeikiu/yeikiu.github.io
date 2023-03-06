@@ -1,6 +1,6 @@
 <br /><br />
 
-![](src/logo.png)
+![](https://github.com/yeikiu/yeikiu.github.io/raw/master/src/logo.png)
 
 # Joaquín Ocón
 
