@@ -28,11 +28,15 @@ Personal Details
 Experience
 ----------
 2023 - Now
-: 	*Software Engineer | Full-Stack Developer*  
+: 	*Senior Software Engineer | Full-Stack Developer*  
+	[The Knot Worldwide](https://www.theknotww.com)
+
+2023 - 2023
+: 	*Senior Software Engineer | Full-Stack Developer*  
 	[Meetoptics Labs S.L.](https://meetoptics.com)
 
 2018 - 2022
-: 	*Software Engineer | Full-Stack Developer*  
+: 	*Senior Software Engineer | Full-Stack Developer*  
 	[Kraken Crypto Exchange](https://kraken.com)
 
 2017 - 2018
@@ -115,8 +119,8 @@ Awards
 Personal Side-Projects
 ----------
 2023
-: 	*MyHrefs.com*  
-	[https://myhrefs.com](https://myhrefs.com)  
+: 	*MiPortfol.io*  
+	[https://miportfol.io](https://miportfol.io)  
 	🤩 Highly customisable social-content showcase
 
 2022
