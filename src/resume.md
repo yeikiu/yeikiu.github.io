@@ -118,9 +118,14 @@ Awards
 
 Personal Side-Projects
 ----------
+2025
+: 	*Fight-Radar*
+	[https://fight-radar.com](https://fight-radar.com)
+	🥊 Advanced MMA fighters analysis and statistics platform
+
 2023
-: 	*MiPortfol.io*  
-	[https://miportfol.io](https://miportfol.io)  
+: 	*MiPortfol.io*
+	[https://miportfol.io](https://miportfol.io)
 	🤩 Highly customisable social-content showcase
 
 2022
