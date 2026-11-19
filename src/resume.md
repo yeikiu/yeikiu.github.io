@@ -156,6 +156,30 @@ Projects
 	[https://github.com/yeikiu/vue3-md-blog](https://github.com/yeikiu/vue3-md-blog)  
 	✍️ Minimal config Vue3 + Markdown blog engine
 
+2018
+: 	*anyone.chat*  
+	[https://anyone.chat](https://anyone.chat)  
+	🌍 Geolocated realtime chat to find digital pen-pals and exchange languages, built with AngularJS, Firebase and GeoFire
+
+2018
+: 	*firmasegura.com*  
+	[https://firmasegura.com](https://firmasegura.com)  
+	✒️ Online assistant to generate and sign PDF documents, aimed at Spanish citizens
+
+2015
+: 	*Frysbe*  
+	[https://frysbe.com](https://frysbe.com)  
+	📸 Mobile app to meet and chat with people worldwide by sending photos, videos and drawings at random. Selected by Facebook's FbStart
+
+2014
+: 	*ADEC (Agenda Digital Escolar Canaria)*  
+	[Gobierno de Canarias](http://www.gobcan.es)  
+	🏫 Communication channel between public schools, teachers and families, adapted from Kinder360 for the Government of the Canary Islands
+
+2014
+: 	*Shoppin' - La Laguna Centro*  
+	🛍️ Geolocated directory for shops in the main area of Tenerife Island
+
 <br /><br />
 
 ------
