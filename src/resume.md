@@ -127,14 +127,19 @@ Awards
 Projects
 ----------
 2026
+: 	*PACO - Personal Assistant, Computer Operator*  
+	[https://doitpaco.com](https://doitpaco.com)  
+	🤖 Local AI agent that operates your PC and phone by voice or chat: apps, browser, messaging, code and recurring tasks, end to end
+
+2026
 : 	*TinyHeadlines*  
 	[https://www.twitch.tv/tinyheadlines](https://www.twitch.tv/tinyheadlines)  
 	📺 A 24/7 news channel on Twitch run entirely by PACO: every headline becomes a miniature 3D scene, live, with nobody at the controls
 
-2023
-: 	*MiPortfol.io*
-	[https://miportfol.io](https://miportfol.io)  
-	🤩 Highly customisable social-content showcase
+2025
+: 	*Fight-Radar*  
+	[https://fight-radar.com](https://fight-radar.com)  
+	🥊 UFC analytics platform: ML fight predictions, private leagues, 4 languages
 
 2022
 : 	*DeLowCos Studio*  
@@ -150,11 +155,6 @@ Projects
 : 	*Vue3 Markdown Blog*  
 	[https://github.com/yeikiu/vue3-md-blog](https://github.com/yeikiu/vue3-md-blog)  
 	✍️ Minimal config Vue3 + Markdown blog engine
-
-2019
-: 	*WaAr - WhatsApp Auto-Reply bot*  
-	[https://github.com/yeikiu/waar](https://github.com/yeikiu/waar)  
-	🤖💬 WhatsApp Auto-Reply node cli
 
 <br /><br />
 
