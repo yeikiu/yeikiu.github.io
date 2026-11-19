@@ -4,13 +4,13 @@
 
 # Joaquín Ocón
 
-### Software Engineer • Senior Full-Stack Developer  
+### Senior Full-Stack Engineer • AI Agents & Automation
 
 ----
 
-<i class="fas fa-quote-left fa-2x fa-pull-left fa-border"></i>
-"Life is a mountain of solvable problems, and I enjoy that."  
-&nbsp;&nbsp;&nbsp;&nbsp;-James Dyson
+Senior Full-Stack Engineer who builds AI agents that do real work on their own — not demos, systems that run unattended. 15+ years shipping web products end to end: today at The Knot Worldwide, before that 4+ years at Kraken, and twice Co-Founder & CTO.
+
+Open to select AI consulting projects alongside my full-time role: AI agents and automations wired into your existing tools, from idea to production.
 
 ----
 
@@ -20,7 +20,7 @@ Personal Details
 ---------
 <span class="fas fa-envelope fa-lg"></span>&nbsp;&nbsp;&nbsp;jqocon@gmail.com
 
-<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://es.linkedin.com/in/jqocon)
+<span class="fab fa-linkedin fa-lg"></span>&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/jqocon)
 
 <span class="fab fa-github fa-lg"></span>&nbsp;&nbsp;[GitHub](https://github.com/yeikiu)
 
@@ -28,19 +28,24 @@ Personal Details
 Experience
 ----------
 2023 - Now
-: 	*Senior Software Engineer | Full-Stack Developer*  
+: 	*Senior Full-Stack Engineer*  
 	[The Knot Worldwide](https://www.theknotww.com)
 
+2025 - Now
+: 	*Co-Founder*  
+	[Fight-Radar](https://fight-radar.com)  
+	UFC analytics platform in production: ML fight predictions, private leagues, 4 languages. Development, maintenance and social media are AI-driven end to end.
+
 2023 - 2023
-: 	*Senior Software Engineer | Full-Stack Developer*  
+: 	*Senior Full-Stack Engineer*  
 	[Meetoptics Labs S.L.](https://meetoptics.com)
 
 2018 - 2022
-: 	*Senior Software Engineer | Full-Stack Developer*  
+: 	*Senior Full-Stack Engineer*  
 	[Kraken Crypto Exchange](https://kraken.com)
 
 2017 - 2018
-: 	*Application Development Senior Analyst*  
+: 	*Fullstack Developer*  
 	[Accenture Outsourcing Services SA](https://www.accenture.com)
 
 2015 - 2016
@@ -75,20 +80,23 @@ Education
 	
 Main Languages & IT Strengths
 ------------
+<span class="fas fa-robot fa-lg">
+:	AI agents, LLMs, Prompt Engineering, Generative AI, Automation, Playwright
+
 <span class="fas fa-code fa-lg">
-:	Typescript, Javascript, Java, PHP, TeX, HTML, CSS
+:	TypeScript, JavaScript, Python, Java, PHP, TeX, HTML, CSS
 
 <span class="fas fa-server fa-lg">
-:	NodeJS, Nginx, Apache, Tomcat, Docker
+:	Node.js, Nginx, Apache, Tomcat, Docker
 
 <span class="fas fa-database fa-lg">
-:	MariaDB, MySQL, PostreSQL, MongoDB, Redis
+:	MariaDB, MySQL, PostgreSQL, MongoDB, Redis
 
 <span class="fas fa-code-branch fa-lg">
-:	React, NextJS, VueJS, AngularJS, TailwindCSS, Bootstrap
+:	React, Next.js, Vue.js, Svelte, AngularJS, TailwindCSS, Bootstrap
 
 <span class="fas fa-globe-americas fa-lg">
-:	GIT, Jira, Confluence, Slack
+:	Git, Jira, Confluence, Slack
 
 Human Languages
 ------------
@@ -101,6 +109,11 @@ Human Languages
 
 Awards
 ------
+2018
+:	*1st Prize in FMP Hackathon by FEMEPA*  
+	[FEMEPA](http://femepa.org/web/)  
+	Project [EcoCanarias](https://ecocanarias.life)
+
 2015
 :	*Awarded by the FbStart Bootstrap Program*  
 	[Facebook Inc.](https://developers.facebook.com/fbstart)  
@@ -111,17 +124,16 @@ Awards
 	[Área 31 Entrepreneurship & Innovation Center](https://www.ie.edu/entrepreneurship/)  
 	[Kinder360](https://kinder360.com) was selected between applicants worldwide
 
-2018
-:	*1st Prize in FMP Hackathon by FEMEPA*  
-	[FEMEPA](http://femepa.org/web/)  
-	Project [EcoCanarias](https://ecocanarias.life)
-
-Personal Side-Projects
+Projects
 ----------
-2025
-: 	*Fight-Radar*
-	[https://fight-radar.com](https://fight-radar.com)  
-	🥊 Advanced MMA fighters analysis and statistics platform
+2026
+: 	*PACO — private beta*  
+	🤖 My own AI assistant: it sees the screen, works across apps and phone, writes and maintains code, and acts before you ask. It runs Fight-Radar and TinyHeadlines.
+
+2026
+: 	*TinyHeadlines*  
+	[https://www.twitch.tv/tinyheadlines](https://www.twitch.tv/tinyheadlines)  
+	📺 A 24/7 news channel on Twitch run entirely by PACO: every headline becomes a miniature 3D scene, live, with nobody at the controls
 
 2023
 : 	*MiPortfol.io*
