@@ -18,9 +18,9 @@ jobs:
           args: --standalone -o index.html --css=src/style.css --self-contained src/resume.md
 
       - run: |
-          sudo apt-get update
-          sudo apt-get install -y xvfb libfontconfig wkhtmltopdf
-          xvfb-run wkhtmltopdf -L 20mm -R 20mm index.html resume.pdf
+          # wkhtmltopdf is no longer packaged on ubuntu-latest: print the PDF with the runner's preinstalled Chrome
+          google-chrome --headless=new --disable-gpu --no-sandbox --no-pdf-header-footer --print-to-pdf=resume.pdf "file://$PWD/index.html"
+          test -s resume.pdf
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add index.html resume.pdf
