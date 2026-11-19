@@ -127,10 +127,6 @@ Awards
 Projects
 ----------
 2026
-: 	*PACO — private beta*  
-	🤖 My own AI assistant: it sees the screen, works across apps and phone, writes and maintains code, and acts before you ask. It runs Fight-Radar and TinyHeadlines.
-
-2026
 : 	*TinyHeadlines*  
 	[https://www.twitch.tv/tinyheadlines](https://www.twitch.tv/tinyheadlines)  
 	📺 A 24/7 news channel on Twitch run entirely by PACO: every headline becomes a miniature 3D scene, live, with nobody at the controls
