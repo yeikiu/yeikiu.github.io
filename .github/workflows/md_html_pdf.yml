@@ -4,19 +4,22 @@ on:
     branches: [ master ]
     paths:
       - src/**
+      - .github/workflows/md_html_pdf.yml
+  workflow_dispatch:
 
 jobs:
   md_html_pdf:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - uses: docker://pandoc/core:2.9
         with:
           args: --standalone -o index.html --css=src/style.css --self-contained src/resume.md
 
       - run: |
-          sudo apt-get install xvfb libfontconfig wkhtmltopdf
+          sudo apt-get update
+          sudo apt-get install -y xvfb libfontconfig wkhtmltopdf
           xvfb-run wkhtmltopdf -L 20mm -R 20mm index.html resume.pdf
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
