@@ -61,13 +61,18 @@ Experience
 :	*CTO | Co-Founder*  
 	[Frysbe](http://frysbe.com/)
 
-2013 - 2014
-:	*Full-Stack CRM Developer*  
-	[Ceindi SL](http://ceindi.es/)
+2013 - 2013
+:	*Software Developer*  
+	[Ceindi SL](http://ceindi.es/)  
+	CRM system for a Real Estate company
 
-2012 - 2015
+2011 - 2014
 :	*CTO | Co-Founder*  
 	[Team & Talent Technologies](http://teamandtalent.com/)
+
+2009 - 2011
+:	*PHP Web Developer*  
+	VexelMedia Estudio Creativo
 
 <div class="page-break"></div>
 
@@ -134,7 +139,7 @@ Projects
 2026
 : 	*TinyHeadlines*  
 	[https://www.twitch.tv/tinyheadlines](https://www.twitch.tv/tinyheadlines)  
-	📺 A 24/7 news channel on Twitch run entirely by PACO: every headline becomes a miniature 3D scene, live, with nobody at the controls
+	📺 A 24/7 news channel on Twitch: every headline becomes a miniature 3D diorama, built with AI help
 
 2025
 : 	*Fight-Radar*  
