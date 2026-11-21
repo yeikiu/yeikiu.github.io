@@ -127,7 +127,7 @@ Awards
 2014
 :	*Selected to join the Área 31 Startup Incubator*  
 	[Área 31 Entrepreneurship & Innovation Center](https://www.ie.edu/entrepreneurship/)  
-	[Kinder360](https://kinder360.com) was selected between applicants worldwide
+	Kinder360 was selected between applicants worldwide
 
 Projects
 ----------
@@ -171,7 +171,6 @@ Projects
 
 2015
 : 	*Frysbe*  
-	[https://frysbe.com](https://frysbe.com)  
 	📸 Mobile app to meet and chat with people worldwide by sending photos, videos and drawings at random. Selected by Facebook's FbStart
 
 2014
