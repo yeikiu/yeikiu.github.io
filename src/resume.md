@@ -139,7 +139,8 @@ Projects
 2026
 : 	*TinyHeadlines*  
 	[https://tinyheadlines.live](https://tinyheadlines.live)  
-	📺 A 24/7 lo-fi news channel on YouTube and Twitch: every headline becomes a miniature 3D diorama, built with AI help
+	📺 A 24/7 lo-fi news channel on YouTube and Twitch: every headline becomes a miniature 3D diorama, built with AI help  
+	▶️ [YouTube](https://www.youtube.com/@TinyHeadlinesLive) · 🟣 [Twitch](https://www.twitch.tv/tinyheadlines)
 
 2025
 : 	*Fight-Radar*  
