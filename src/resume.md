@@ -55,11 +55,11 @@ Experience
 
 2014 - 2017
 : 	*Android Developer | REST API Developer*  
-	[Kinder360](https://kinder360.com/)  
+	Kinder360  
 	
 2014 - 2017
 :	*CTO | Co-Founder*  
-	[Frysbe](http://frysbe.com/)
+	Frysbe
 
 2013 - 2013
 :	*Software Developer*  
@@ -121,8 +121,8 @@ Awards
 
 2015
 :	*Awarded by the FbStart Bootstrap Program*  
-	[Facebook Inc.](https://developers.facebook.com/fbstart)  
-	$5000 on Fb's technology award for [Frysbe](https://frysbe.com) Project
+	Facebook Inc.  
+	$5000 on Fb's technology award for Frysbe Project
 
 2014
 :	*Selected to join the Área 31 Startup Incubator*  
@@ -149,7 +149,6 @@ Projects
 
 2022
 : 	*DeLowCos Studio*  
-	[https://delowcos.com](https://delowcos.com)  
 	🎛️ Landing page experimenting the fresh framework on top of deno
 
 2021
@@ -164,12 +163,10 @@ Projects
 
 2018
 : 	*anyone.chat*  
-	[https://anyone.chat](https://anyone.chat)  
 	🌍 Geolocated realtime chat to find digital pen-pals and exchange languages, built with AngularJS, Firebase and GeoFire
 
 2018
 : 	*firmasegura.com*  
-	[https://firmasegura.com](https://firmasegura.com)  
 	✒️ Online assistant to generate and sign PDF documents, aimed at Spanish citizens
 
 2015
